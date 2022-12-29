@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekas7508&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekas7508" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekas7508" alt="abhishekas7508" /></a> </p>
-
 - 🌱 I’m currently learning **Python,JavaScript and React**
 
 - 📫 How to reach me **abhishekas7508@gmail.com**
